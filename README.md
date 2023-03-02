@@ -4,5 +4,7 @@ https://dungeon-party-nu.vercel.app/
 
 ## Objetivo
 
-Simples e fácil, tem a função de organizar os jogadores em cards por tipo de Dungeon de um jogo fictício;
+Tem a função de organizar os jogadores em cards por tipo de Dungeon de um jogo fictício;
+
+## Experiência
 Projeto criado com objeto de práticar elementos do React junto ao JavaScript obtidos no Curso "React: desenvolvendo com JavaScript" do Alura.
